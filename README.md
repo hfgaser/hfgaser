@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hfgaser
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning c++ & java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++ , java , c#, asp.net, mvc
+- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hfgaser@gmail.com
 
 <!---
