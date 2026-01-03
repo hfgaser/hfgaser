@@ -6,7 +6,8 @@
 
 - 📫 How to reach me hfgaser@gmail.com
 
-- [Click Here for my Resume!](https://github.com/user-attachments/files/22012643/Hasan.Furkan.Gaser.pdf)
+- [Click Here for TR version of my Resume!](https://github.com/user-attachments/files/24416554/Hasan.Furkan.Gaser.cv.pdf)
+- [Click Here for EN version of my Resume!](https://github.com/user-attachments/files/24416549/Hasan.Furkan.Gaser.-.EN.pdf)
 
 <!---
 hfgaser/hfgaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
