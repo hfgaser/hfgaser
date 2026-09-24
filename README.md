@@ -45,4 +45,3 @@ I also develop Android applications using Kotlin, Java, and Firebase.
 hfgaser/hfgaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img  alt="Rick and Morty" width="400" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
